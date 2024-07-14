@@ -1,0 +1,43 @@
+button {
+        border: none;
+        margin: 0;
+        padding: 0;
+        width: auto;
+        overflow: visible;
+    
+        background: transparent;
+    
+        /* inherit font & color from ancestor */
+        color: inherit;
+        font: inherit;
+    
+        /* Normalize `line-height`. Cannot be changed from `normal` in Firefox 4+. */
+        line-height: normal;
+    
+        /* Corrects font smoothing for webkit */
+        -webkit-font-smoothing: inherit;
+        -moz-osx-font-smoothing: inherit;
+    
+        /* Corrects inability to style clickable `input` types in iOS */
+        -webkit-appearance: none;
+}
+
+button > .button {
+    border: 1px solid var(--text-color);
+    border-radius: var(--edge-radius);
+    color: var(--text-color);
+    padding: 12px;
+    font-size: 14px;
+    transition: background-color 0.15s ease-in-out;
+}
+
+button > .button-primary {
+    background-color: var(--text-color);
+    color: var(--background);
+}
+
+button > .button:hover {
+    text-decoration: none;
+    color: var(--background);
+    background-color: var(--text-color);
+}
