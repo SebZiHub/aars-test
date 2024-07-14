@@ -1,0 +1,10 @@
+{
+    "zuerich": {
+        "id": "zuerich",
+        "name": "Zürich"
+    },
+    "aarau": {
+        "id": "aarau",
+        "name": "Aarau"
+    }
+}

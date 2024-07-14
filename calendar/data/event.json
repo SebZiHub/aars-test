@@ -1,0 +1,20 @@
+[
+    { "start": "2024-03-23T13:45:00", "end": "2024-03-23T17:00:00", "location": "zueghusplatz", "eventStatus": "confirmed" },
+    { "start": "2023-11-25T13:45:00", "end": "2023-11-25T17:00:00", "location": "zueghusplatz", "eventStatus": "confirmed" },
+    { "start": "2024-04-20T13:45:00", "end": "2024-04-20T17:00:00", "location": "hirschenplatz", "eventStatus": "confirmed" },
+    { "start": "2024-05-18T13:45:00", "end": "2024-05-18T17:00:00", "location": "zueghusplatz", "eventStatus": "confirmed" },
+    { "start": "2024-06-22T13:45:00", "end": "2024-06-22T17:00:00", "location": "hirschenplatz", "eventStatus": "cancelled" },
+    { "start": "2024-07-20T13:45:00", "end": "2024-07-20T17:00:00", "location": "bellevue", "eventStatus": "confirmed" },
+    { "start": "2024-08-24T13:45:00", "end": "2024-08-24T17:00:00", "location": "bellevue", "eventStatus": "confirmed" },
+    { "start": "2024-09-21T13:45:00", "end": "2024-09-21T17:00:00", "location": "hirschenplatz", "eventStatus": "confirmed" },
+    { "start": "2024-10-19T13:45:00", "end": "2024-10-19T17:00:00", "location": "zueghusplatz", "eventStatus": "confirmed" },
+
+    { "start": "2024-03-02T13:45:00", "end": "2024-03-02T17:00:00", "location": "igelweid", "eventStatus": "confirmed" },
+    { "start": "2024-04-27T13:45:00", "end": "2024-04-27T17:00:00", "location": "igelweid", "eventStatus": "confirmed" },
+    { "start": "2024-05-25T13:45:00", "end": "2024-05-25T17:00:00", "location": "igelweid", "eventStatus": "confirmed" },
+    { "start": "2024-06-29T13:45:00", "end": "2024-06-29T17:00:00", "location": "igelweid", "eventStatus": "confirmed" },
+    { "start": "2024-07-27T13:45:00", "end": "2024-07-27T17:00:00", "location": "igelweid", "eventStatus": "in-planning" },
+    { "start": "2024-08-31T13:45:00", "end": "2024-08-31T17:00:00", "location": "igelweid", "eventStatus": "in-planning" },
+    { "start": "2024-09-28T13:45:00", "end": "2024-09-28T17:00:00", "location": "igelweid", "eventStatus": "in-planning" },
+    { "start": "2024-10-26T13:45:00", "end": "2024-10-26T17:00:00", "location": "igelweid", "eventStatus": "in-planning" }
+]
