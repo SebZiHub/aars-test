@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>AARS Kalender</title>
+    <!-- BOOTSTRAP AND RELATED TOOLS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <!-- VUEJS -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <!-- ADDITIONAL CSS-->
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- So that we can use import ... from 'vue' instead of using the whole url each time -->
+    <script type="importmap">
+        { "imports": { "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js" }}
+      </script>
+  </head>
+  <body>
+    <div class="wrapper" id="app">
+      <header>
+        <h1>AARS Kalender</h1>
+        <p>“Anonymous for Animal Rights Switzerland” setzt sich für die Rechte der Tiere ein. Auf der Strasse bilden wir einen “Cube” und zeigen den Menschen mit Schweizer Aufnahmen, was hinter den Tierprodukten steckt. Mit interessierten Passanten führen wir Gespräche, wobei im Vordergrund die ethischen Aspekte und die Verantwortung jeder einzelnen Person stehen.</p>
+	<p>Masken, Schilder und Visitenkarten werden zur Verfügung gestellt. Achte bitte auf eine schwarze/möglichst dunkle Kleidung und bring, wenn möglich, ein Laptop/Tablet mit den entsprechenden Aufnahmen mit. Teste vorab, wie das Video in der Endlosschleife abgespielt und die Helligkeit auf dem Gerät auf höchster Stufe eingestellt wird.</p>
+	<p>Das Cube Video, unseren Outreach Guide und weitere Ressourcen findest du <a href="https://bit.ly/m/aars">hier</a>.</p>
+	<p>Bring zur Aktion bitte möglichst wenig Gepäck mit. Alle zum Cube mitgebrachten Gegenstände unterliegen deiner eigenen Verantwortung. Das Organisationsteam kann dafür keine Verantwortung übernehmen.</p>
+	<p>Nach dem Cube gehen wir gerne noch gemeinsam essen/trinken und tauschen uns aus.</p>
+	<p>Danke für deinen Einsatz!</p>
+      </header>
+      <section>
+        <div class="container">
+            <div v-for="event in events">
+                <h2 v-if="event.isNextEventComingUp()"><strong>Nächster Event</strong></h2>
+                <br v-if="event.isNextEventComingUp()" />
+              
+                <calendar-event :event="event"></calendar-event>
+
+                <br v-if="event.isNextEventComingUp()" />
+                <br v-if="event.isNextEventComingUp()" />
+                <h2 v-if="event.isNextEventComingUp()"><strong>Weitere Events</strong></h2>
+                <br v-if="event.isNextEventComingUp()" />
+            </div>
+        </div>
+      </section>
+      <footer>
+      </footer>
+    </div>
+
+    <script src="javascripts/scale.fix.js"></script>
+
+    <script type="module">
+        import { createApp, ref } from 'vue';
+        import CalendarEvent from './component/calendar-event.component.js';
+        import { DataService } from './model/data.service.js';
+        import { ModelMapper } from './model/model.mapper.js';
+
+        createApp({
+            components: {
+                // the calendar-event component renders a single event
+                'calendar-event': CalendarEvent
+            },
+
+            data() {
+                return {
+                    events: []
+                };
+            },
+
+            methods: {
+                count: (arr) => arr.length,
+                loadData: async () => {
+                    const dataService = new DataService();
+                    const modelMapper = new ModelMapper();
+
+                    const eventData = await dataService.findManyEvent();
+                    const locationData = await dataService.findManyLocation();
+                    const cityData = await dataService.findManyCity();
+
+                    return modelMapper.mapFromData(eventData, cityData, locationData);
+                }
+            },
+
+            async mounted() {
+                this.events = await this.loadData();
+            }
+        }).mount('#app')
+        </script>
+
+    <style scoped>
+        button {
+        font-weight: bold;
+        }
+    </style>
+
+  </body>
+</html>

@@ -1,0 +1,26 @@
+{
+    "zueghusplatz": {
+        "id": "zueghusplatz",
+        "name": "Züghusplatz",
+        "city": "zuerich",
+        "googleMapsLink": "https://maps.app.goo.gl/vFZEtNKQBbDjfG9VA"
+    },
+    "bellevue": {
+        "id": "bellevue",
+        "name": "Bellevue",
+        "city": "zuerich",
+        "googleMapsLink": "https://maps.app.goo.gl/9iWubHDUifcqybPf9"
+    },
+    "hirschenplatz": {
+        "id": "hirschenplatz",
+        "name": "Hirschenplatz",
+        "city": "zuerich",
+        "googleMapsLink": "https://maps.app.goo.gl/aLUemvAVwHh3KfgYA"
+    },
+    "igelweid": {
+        "id": "igelweid",
+        "name": "Igelweid",
+        "city": "aarau",
+        "googleMapsLink": "https://maps.app.goo.gl/f8c4833enDBUP7EZ8"
+    }
+}
