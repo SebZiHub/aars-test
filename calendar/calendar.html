@@ -4,17 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>AARS Kalender</title>
-    <!-- BOOTSTRAP AND RELATED TOOLS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <!-- VUEJS -->
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <!-- ADDITIONAL CSS-->
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link rel="stylesheet" href="../stylesheets/styles.css">
-    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="./stylesheet/style.css">
+
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -40,14 +34,11 @@
         <div class="container">
             <div v-for="event in events">
                 <h2 v-if="event.isNextEventComingUp()"><strong>Nächster Event</strong></h2>
-                <br v-if="event.isNextEventComingUp()" />
               
                 <calendar-event :event="event"></calendar-event>
 
                 <br v-if="event.isNextEventComingUp()" />
-                <br v-if="event.isNextEventComingUp()" />
                 <h2 v-if="event.isNextEventComingUp()"><strong>Weitere Events</strong></h2>
-                <br v-if="event.isNextEventComingUp()" />
             </div>
         </div>
       </section>
@@ -94,12 +85,5 @@
             }
         }).mount('#app')
         </script>
-
-    <style scoped>
-        button {
-        font-weight: bold;
-        }
-    </style>
-
   </body>
 </html>
