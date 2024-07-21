@@ -183,7 +183,7 @@ body:before {
       rgba(33, 34, 41, 0.859),
       rgba(33, 34, 41, 0.859)
     ),
-    url("/assets/images/bg.gif");
+    url("../assets/images/bg.gif");
   background-position: 0% 0%, center;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
