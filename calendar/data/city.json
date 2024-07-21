@@ -7,4 +7,8 @@
         "id": "aarau",
         "name": "Aarau"
     }
+    "basel": {
+        "id": "basel",
+        "name": "Basel"
+    }
 }

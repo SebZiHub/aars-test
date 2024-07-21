@@ -8,7 +8,6 @@
     { "start": "2024-08-24T13:45:00", "end": "2024-08-24T17:00:00", "location": "bellevue", "eventStatus": "confirmed" },
     { "start": "2024-09-21T13:45:00", "end": "2024-09-21T17:00:00", "location": "hirschenplatz", "eventStatus": "confirmed" },
     { "start": "2024-10-19T13:45:00", "end": "2024-10-19T17:00:00", "location": "zueghusplatz", "eventStatus": "confirmed" },
-
     { "start": "2024-03-02T13:45:00", "end": "2024-03-02T17:00:00", "location": "igelweid", "eventStatus": "confirmed" },
     { "start": "2024-04-27T13:45:00", "end": "2024-04-27T17:00:00", "location": "igelweid", "eventStatus": "confirmed" },
     { "start": "2024-05-25T13:45:00", "end": "2024-05-25T17:00:00", "location": "igelweid", "eventStatus": "confirmed" },
