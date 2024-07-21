@@ -7,14 +7,14 @@
 }
 
 .event-container > .main-container > .title-container {
-    font-size: 25px;
+    font-size: 20px;
     padding: 12px;
     padding-left: 16px;
 }
 
 .event-container > .main-container > .info-container {
     display: flex;
-    font-size: 16px;
+    font-size: 14px;
     padding-left: 16px;
     padding-top: 13px;
     padding-bottom: 9px;
