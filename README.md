@@ -1,5 +1,25 @@
-# aars-test
-AARS Testing Page
+# Anonymous for Animal Rights Switzerland
+Test Environment
+
+## Website deployment
+Follow these steps to prepare the website:
+- Insert beautified code taken from [carrd](https://aars-cube.carrd.co)
+- Add meta information 
+```
+    <meta name="keywords" content="Tierrecht, Aktivismus, Tierrechtsaktivismus, Anonymous, Voiceless, Z&uuml;rich, Basel, Aarau, Schweiz, Cube, Truth, Vegan, Animal, Rights, Switzerland"/>
+    <meta name="language" content="Deutsch, de" />
+    <meta name="revisit-after" content="9 days" />
+    <meta name="robots" content="index" />
+    <meta name="robots" content="follow" />
+    <meta name="author" content="Anonymous for Animal Rights Switzerland" />
+    <link href="assets/images/favicon.ico" rel="shortcut icon" />
+```
+- Remove footer section containing `Made with`
+- Remove version number behind `bg.jpg`, `image01.jpg` (or `.png`) references
+- Refactor gallery01 references (e.g. `jeannie.jpg`)
+- Refacor the `assets/images/card.jpg` reference 
+- Refactor the "Kalender"-Link
+- Refactor `aars-cube.carrd.co` references
 
 ## The calendar
 The calendar is implemented with Vue.js.
