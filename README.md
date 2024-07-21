@@ -1,5 +1,5 @@
 # Anonymous for Animal Rights Switzerland
-Test Environment
+Repository for the test environment of the AARS website.
 
 ## Website deployment
 Follow these steps to prepare the website:
