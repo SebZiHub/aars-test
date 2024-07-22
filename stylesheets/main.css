@@ -166,6 +166,7 @@ body {
   word-wrap: break-word;
 }
 
+/*
 body:before {
   content: "";
   display: block;
@@ -188,6 +189,15 @@ body:before {
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
   background-color: #000000;
+}
+*/
+
+#bgVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 body:after {
@@ -333,7 +343,7 @@ deferred-script {
   position: relative;
   text-align: var(--alignment);
   z-index: 1;
-  background-color: rgba(0, 0, 0, 0.275);
+  background-color: rgba(0, 0, 0, 0.6);
   box-shadow: 0rem 1.125rem 4rem 1.75rem rgba(0, 0, 0, 0.078);
   transition: opacity 0.125s ease 0s, transform 0.125s ease 0s;
 }
