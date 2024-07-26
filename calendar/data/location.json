@@ -22,5 +22,11 @@
         "name": "Igelweid",
         "city": "aarau",
         "googleMapsLink": "https://maps.app.goo.gl/f8c4833enDBUP7EZ8"
+    },
+    "schifflaende": {
+        "id": "schifflaende",
+        "name": "Schifflände",
+        "city": "basel",
+        "googleMapsLink": "https://maps.app.goo.gl/S7ZhppvNvehCcSXw8"
     }
 }
