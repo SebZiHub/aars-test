@@ -24,6 +24,9 @@ export default {
       <div class="title-container">
         <span><strong>Cube in {{ event.location.city.name }}</strong></span>
       </div>
+      <div class="status-container">
+        <span><strong>{{ event.getConfirmationStatus() }}</strong></span>
+      </div>
       <div class="info-container">
         <div><i class="fa-solid fa-calendar" aria-hidden="true"></i><span>{{ event.getDateInSwissFormat() }}</span></div>
         <div><i class="fa-solid fa-clock" aria-hidden="true"></i><span>{{ event.getStartTime() }} - {{ event.getEndTime() }}</span></div>
