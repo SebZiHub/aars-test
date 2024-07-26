@@ -48,3 +48,25 @@
     font-size: 18px;
     font-weight: 400;
 }
+
+@media (max-width: 736px) {
+    .event-container > .main-container > .info-container {
+        font-size: 0.7em;
+    }
+
+    .date-container > .month-abbr {
+        font-size: 0.85em;
+    }
+}
+
+@media (max-width: 480px) {
+    .event-container > .main-container > .info-container {
+        font-size: 0.6em;
+    }   
+}
+
+@media (max-width: 360px) {
+    .event-container > .main-container > .info-container {
+        font-size: 0.5em;
+    }   
+}

@@ -14,3 +14,8 @@
     font-weight: 500;    
 }
 
+@media (max-width: 736px) {
+    .badge-big {
+        font-size: 0.9em;
+    }
+}
