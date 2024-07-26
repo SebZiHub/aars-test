@@ -12,6 +12,13 @@
     padding-left: 16px;
 }
 
+.event-container > .main-container > .status-container {
+    font-size: 16px;
+    padding-left: 16px;
+    color: var(--unconfirmed-event-status); 
+    text-transform: uppercase;
+}
+
 .event-container > .main-container > .info-container {
     display: flex;
     font-size: 14px;
@@ -27,8 +34,6 @@
 .event-container > .main-container > .info-container > div > span{
     margin-left: 6px;
 }
-
-
 
 .list-inline {
     display: inline;
@@ -47,11 +52,16 @@
     text-align: center;
     font-size: 18px;
     font-weight: 400;
+    text-transform: uppercase;
 }
 
 @media (max-width: 736px) {
     .event-container > .main-container > .info-container {
         font-size: 0.7em;
+    }
+
+    .event-container > .main-container > .status-container {
+        font-size: 0.8em;
     }
 
     .date-container > .month-abbr {
