@@ -7,25 +7,32 @@ export default {
       } else {
         return "badge badge-big badge-secondary";
       }
+    },
+
+    getClassForStatusBadge: (event) => {
+      if (event.eventStatus === "cancelled") {
+          return "badge badge-small badge-error";
+      } else if (event.eventStatus === "in-planning") {
+        return "badge badge-small badge-warn";
+      } else {
+        return "";
+      }
     }
   },
-
-  mounted() {
-  },
+  mounted() {},
   props: ['event'],
   template: `
-  <i data-feather="circle"></i>
   <div class="event-container" v-if="event.isFutureEvent()">
     <div class="date-container">
-      <span :class="getClassForDayBadge(this.event)"><span>{{ event.getDay() }}</span></span>
+      <span :class="getClassForDayBadge(this.event)"><span><strong>{{ event.getDay() }}</strong></span></span>
       <span class="month-abbr">{{ event.getMonthAbbreviation() }}</span>
     </div>
     <div class="main-container">
       <div class="title-container">
-        <span><strong>Cube in {{ event.location.city.name }}</strong></span>
+        <span :style="[event.isCancelled() ? 'text-decoration: line-through' : '']"><strong>Cube in {{ event.location.city.name }}</strong></span>
       </div>
-      <div class="status-container">
-        <span><strong>{{ event.getConfirmationStatus() }}</strong></span>
+      <div class="status-container" v-if="event.isInPlanningOrCancelled()">
+        <div :class="getClassForStatusBadge(this.event)"><span><strong>{{ event.getConfirmationStatus() }}</strong></span></div>
       </div>
       <div class="info-container">
         <div><i class="fa-solid fa-calendar" aria-hidden="true"></i><span>{{ event.getDateInSwissFormat() }}</span></div>

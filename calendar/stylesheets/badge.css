@@ -2,7 +2,14 @@
     border: 2px solid var(--text-color);
     border-radius: var(--edge-radius);
     padding: 12px;
-    margin: auto;
+    width: fit-content;
+}
+
+.badge-small {
+    padding: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-size: 12px;
 }
 
 .badge-primary {
@@ -10,13 +17,17 @@
     color: var(--background);
 }
 
-.badge-big {
-    font-size: 25px;
-    font-weight: 500;    
+.badge-warn {
+    border: none;
+    background-color: var(--warn);
 }
 
-@media (max-width: 736px) {
-    .badge-big {
-        font-size: 0.9em;
-    }
+.badge-error {
+    border: none;
+    background-color: var(--error);
+}
+
+.badge-big {
+    font-size: 21px;
+    font-weight: 500;    
 }

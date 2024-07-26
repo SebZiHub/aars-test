@@ -36,14 +36,14 @@ body {
   }
   
   h1 {
-    font-size:28px;
+    font-size:48px;
     font-weight: 500;
   }
   
   h2 {
     color: var(--heading-color);
     font-weight: 500;
-    font-size: 24px;
+    font-size: 36px;
   }
 
   h3 {
@@ -130,6 +130,10 @@ body {
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
   }
+
+  header p {
+    font-size: 16px;
+  }
   
   header ul {
     list-style:none;
@@ -175,7 +179,7 @@ body {
   }
   
   strong {
-    font-weight:500;
+    font-weight:700;
   }
   
   header ul li + li + li {

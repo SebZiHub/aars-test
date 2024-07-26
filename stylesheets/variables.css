@@ -4,5 +4,6 @@
     --text-color: #fff;
     --heading-color: #e5e5e5;
     --edge-radius: 4px;
-    --unconfirmed-event-status: #ffc107;
+    --warn: #D68000;
+    --error: #812323;
 }

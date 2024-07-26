@@ -60,12 +60,20 @@ export class Event {
     }
 
     getConfirmationStatus() {
-        if (this.eventStatus == "in-planning") {
-          return "Cube ist in Planung!";
+        if (this.eventStatus === "in-planning") {
+          return "In Planung";
         }   
-        if (this.eventStatus == "cancelled") {
-          return "Cube wurde abgesagt!";
+        if (this.eventStatus === "cancelled") {
+          return "Abgesagt";
         }   
         return "";
+    }
+
+    isInPlanningOrCancelled() {
+        return this.eventStatus === "in-planning" || this.eventStatus === "cancelled";
+    }
+
+    isCancelled() {
+        return this.eventStatus === "cancelled";
     }
 }
