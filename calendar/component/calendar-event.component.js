@@ -32,7 +32,7 @@ export default {
         <span :style="[event.isCancelled() ? 'text-decoration: line-through' : '']"><strong>Cube in {{ event.location.city.name }}</strong></span>
       </div>
       <div class="status-container" v-if="event.isInPlanningOrCancelled()">
-        <div :class="getClassForStatusBadge(this.event)"><span><strong>{{ event.getConfirmationStatus() }}</strong></span></div>
+        <div :class="getClassForStatusBadge(this.event)"><span><strong>{{ event.getEventStatusDisplayText() }}</strong></span></div>
       </div>
       <div class="info-container">
         <div><i class="fa-solid fa-calendar" aria-hidden="true"></i><span>{{ event.getDateInSwissFormat() }}</span></div>

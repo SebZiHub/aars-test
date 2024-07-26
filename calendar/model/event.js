@@ -59,7 +59,7 @@ export class Event {
         return noPreviousEventOrInThePast && isEventInFuture;
     }
 
-    getConfirmationStatus() {
+    getEventStatusDisplayText() {
         if (this.eventStatus === "in-planning") {
           return "In Planung";
         }   
