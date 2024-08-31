@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+}
+
 footer {
   display: none;
 }
