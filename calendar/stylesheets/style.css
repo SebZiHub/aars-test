@@ -131,8 +131,9 @@ body {
     -webkit-font-smoothing:subpixel-antialiased;
   }
 
+  /* smaller font-size on bigger screens */
   header p {
-    font-size: 16px;
+    font-size: 15px;
   }
   
   header ul {
@@ -223,6 +224,11 @@ body {
     div.wrapper {
       width:auto;
       margin:0;
+    }
+
+    /* increase font-size again on smaller screens */
+    header p {
+      font-size: 16px;
     }
   
     header, section, footer {
