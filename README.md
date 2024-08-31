@@ -1,6 +1,11 @@
 # Anonymous for Animal Rights Switzerland
 This is the repository for the test environment of the AARS website.
 
+## Carrd export
+Originally, the site was built using [Carrd](https://carrd.co/), which creates a single HTML file which includes all the styling and scripts. That site was then refactored and moved to this repository.
+
+In some cases, e.g. getting inspiration for icons or styling, using Carrd might still be useful.
+
 ## The calendar
 The calendar is implemented with Vue.js. Since the calendar itself is split into multiple components, and therefore needs to be imported using the `import` statement, we need a small http server. That is because, the `import` statement does not work over the `file://` protocol, only `https://`.
 
