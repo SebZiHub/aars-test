@@ -39,7 +39,7 @@
 }
 
 .event-container > .main-container > .info-container > div > i.fa-calendar {
-    margin-right: 12px;
+    margin-right: 13px;
 }
 
 .event-container > .main-container > .info-container > div > i.fa-clock {
@@ -47,7 +47,8 @@
 }
 
 .event-container > .main-container > .info-container > div > i.fa-location-dot {
-    margin-right: 15px;
+    margin-right: 14px;
+    padding-left: 2px;
 }
 
 .list-inline {
