@@ -29,3 +29,5 @@ The following files are relevant:
 - `assets/css/style.scss`: contains style changes for the guides
 - `guides/*.md`: the actual content of the guides
 - `guides/assets/*`: other assets, such as images, that are only used in the guides
+
+To easily create a table of content over a markdown file, this [generator](https://ecotrust-canada.github.io/markdown-toc/) can be used.
