@@ -3,21 +3,9 @@
 
 @import "{{ site.theme }}";
 
+/* hide elements from the default template*/
 header {
   display: none;
-}
-
-section {
-  width: 100%;
-  float: left; 
-}
-
-body {
-  font-family: "Nanum Gothic", sans-serif;
-}
-
-h1 {
-  font-family: "Bebas Neue", sans-serif;
 }
 
 footer {
@@ -26,4 +14,19 @@ footer {
 
 p.view {
   display: none;
+}
+
+/* stretch the content to fill the page */
+section {
+  width: 100%;
+  float: left; 
+}
+
+body {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 800;
+}
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
 }
