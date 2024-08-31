@@ -1,5 +1,5 @@
 # Anonymous for Animal Rights Switzerland
-Repository for the test environment of the AARS website.
+This is the repository for the test environment of the AARS website.
 
 ## The calendar
 The calendar is implemented with Vue.js. Since the calendar itself is split into multiple components, and therefore needs to be imported using the `import` statement, we need a small http server. That is because, the `import` statement does not work over the `file://` protocol, only `https://`.
@@ -14,3 +14,13 @@ The calendar is implemented with Vue.js. Since the calendar itself is split into
 
 ### Updating cube events
 Check the folder `./calendar/data` and update the file `event.json` accordingly.
+
+## The guides
+For more text intensive sites, a [Github Pages](https://pages.github.com/) template is applied on markdown files.
+
+The following files are relevant:
+- `_config.yml`: basic configuration, such as theme selection
+- `_includes/*.html`: additional content that is added to the guides
+- `assets/css/style.scss`: contains style changes for the guides
+- `guides/*.md`: the actual content of the guides
+- `guides/assets/*`: other assets, such as images, that are only used in the guides
