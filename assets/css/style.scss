@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  display: none;
+}
+
 body {
   font-family: "Nanum Gothic", sans-serif;
 }
