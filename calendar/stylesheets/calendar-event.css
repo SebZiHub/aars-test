@@ -17,7 +17,7 @@
     font-size: 16px;
     padding-left: 32px;
     text-transform: uppercase;
-    margin-bottom: 24px;
+    margin-bottom: 10px;
 }
 
 .event-container > .main-container > .info-container {
@@ -38,8 +38,16 @@
     margin-bottom: 14px;
 }
 
-.event-container > .main-container > .info-container > div > span{
-    margin-left: 12px;
+.event-container > .main-container > .info-container > div > i.fa-calendar {
+    margin-right: 12px;
+}
+
+.event-container > .main-container > .info-container > div > i.fa-clock {
+    margin-right: 11px;
+}
+
+.event-container > .main-container > .info-container > div > i.fa-location-dot {
+    margin-right: 15px;
 }
 
 .list-inline {
