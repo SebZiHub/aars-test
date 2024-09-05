@@ -39,16 +39,38 @@ Ein Gespräch im Outreach hat folgende Struktur:
 
 Nachfolgend sind die verschiedenen Teile des Gesprächs näher beschrieben.
 
-## Blah blah
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum erat metus, ac semper mauris gravida et. Suspendisse eget egestas dui. Vivamus urna erat, interdum finibus hendrerit vitae, interdum ac tortor. In vehicula orci ipsum, at tempus turpis facilisis ac. Pellentesque euismod tortor sagittis mauris blandit, iaculis ornare neque viverra. Ut lorem leo, auctor sit amet nulla ac, ullamcorper aliquet tortor. Vestibulum sed luctus dolor. Sed sit amet massa non velit pulvinar varius ac quis mi. Maecenas pharetra semper nisl, malesuada volutpat lectus. Quisque metus velit, ornare non tincidunt a, mollis a nulla. Phasellus a libero non erat rhoncus feugiat. Nam sed nunc vel tortor condimentum placerat a a elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+### Erste Frage
+Nachdem die Passanten aufmerksam in den Cube geschaut haben, sprichst du sie mit einer ersten Frage an. Zum Beispiel: “Guten Tag. Haben Sie schon mal so etwas gesehen?”. Typischerweise antworten die Leute mit: “Ja, in der Schule/auf Social Media, im TV…” oder “Nein, noch nie…”.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium urna non dui vehicula, et interdum velit posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam varius condimentum mi, a fringilla leo dapibus sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis ac lacus at ullamcorper. Aliquam eu purus lacus. Vivamus quis leo suscipit, sagittis lorem nec, consectetur orci. Nam ac massa fermentum, sollicitudin dui eu, lobortis lectus. Nam in lectus vel nunc cursus interdum. Vivamus quis sem nec magna placerat luctus ac porttitor purus. Sed convallis nulla ut lorem eleifend, non lacinia nisl accumsan. Curabitur ac scelerisque massa. Pellentesque eget risus libero. Vivamus a cursus tellus. Praesent congue ex eget arcu semper semper.
+Die Frage soll eigentlich nur dazu dienen, mit der Person ins Gespräch zu kommen. Du kannst an dieser Stelle direkt in die Diskussion einsteigen mit: “Dann sind Sie vielleicht etwas vertraut mit den Dingen, die wir hier zeigen…”, sofern die Antwort “ja” war oder du machst direkt weiter, wenn die Antwort “nein” war.
 
-### Blah blah blah
-Morbi sed ligula ultrices, vehicula lectus tempus, iaculis erat. Nullam vehicula scelerisque magna ac laoreet. Quisque vitae fringilla nisl. Aliquam erat volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed sollicitudin mi nulla, sollicitudin dignissim elit viverra ut. Maecenas sed ligula eget leo molestie tincidunt. Mauris dignissim volutpat nisl, tincidunt placerat ligula dapibus et.
+### Diskussion
+Im Hauptteil des Gespräches springst du inhaltlich zwischen diesen verschiedenen Punkten: Erklärungen, deiner Geschichte, “Argumenten” entgegnen, Veganismus als Ethik, Deeskalation, Geschichte der Passanten.
 
-## Blah Huh
-Praesent elementum justo nec suscipit fringilla. Nunc ullamcorper, metus quis pretium scelerisque, lacus eros pretium tellus, eu facilisis nulla nisl eget neque. Etiam non risus lectus. Donec justo turpis, convallis id vestibulum eget, semper ac lorem. Fusce tristique justo vulputate odio volutpat dignissim. Etiam sit amet tincidunt ante. Mauris at vulputate tortor. Vivamus malesuada, mauris nec lobortis accumsan, urna nunc imperdiet ante, eu mattis sem quam id libero. In hac habitasse platea dictumst. Mauris sit amet nunc et neque accumsan aliquam in vitae ex. Quisque vel dignissim quam. Proin rhoncus magna scelerisque maximus congue.
+Die Reihenfolge kann variieren, es kommt immer darauf an, mit wem ein Gespräch geführt wird. Nach der ersten Frage beginnst du meistens mit den Erklärungen. Vielleicht erzählst du dann deine Gesichte, entgegnest ein paar “Argumenten”, erklärst Veganismus als Teil der Ethik und dann kommt das Gespräch zum Abschluss.
 
-## Blah
-Sed arcu urna, suscipit at commodo vel, dignissim id quam. Cras nec fermentum felis. Suspendisse tincidunt tempor nisl, quis scelerisque ipsum bibendum non. Mauris dapibus lacus nisl, a bibendum est placerat vitae. Cras elementum tristique sapien id dignissim. Vestibulum sit amet turpis ante. Nullam fringilla tortor eget est dictum vulputate nec nec dolor. Fusce congue sapien sit amet velit ullamcorper, ut elementum sapien mollis. 
+#### Erklärungen
+Du erklärst, was im Filmmaterial eigentlich gezeigt wird. Beispielsweise:
+- Die Kälber werden von der Mutter getrennt und angekettet wegen dem “zarten” Kalbfleisch.
+- Diese Schweine leben auf kleinstem Raum und entwickeln oft schmerzhafte Krankheiten.
+- Dieser Schlachtprozess entspricht dem Standard der Industrie gemäss Schweizerischem Tierschutzgesetz: Die Person verwendet einen Bolzenschuss am Schädel der Kuh und dann schneiden sie ihnen den Hals auf.
+
+Eine Erklärung hat zum Ziel, dass die Passanten die systematische Ausbeutung der Tiere sehen. Weiter aber, machst du mit einem Satz wie “... das alles passiert nur, weil wir Tiere essen” den Passanten klar, dass unser Konsumverhalten hier matchentscheidend ist. Auch wenn du natürlich vegan bist, hilft es, von “wir” zu sprechen. Das signalisiert den Passanten, dass wir gemeinsam gegen die Ausbeutung von Tieren stehen.
+
+Typischerweise sind die Passanten danach geschockt und reagieren entweder mit “Argumenten” bzw. Ausreden wie “das ist in meinem Dorf nicht so” oder sagen noch nichts. Nach einer Erklärung kannst du deshalb entweder “Argumenten” entgegnen oder mit deiner Geschichte fortfahren.
+
+#### Deine Geschichte
+In diesem Teil der Diskussion machst du deinen Outreach persönlich und greifbarer für die Passanten. Gleichzeitig zeigst du, indem du über deinen Gedankengang sprichst, die eigentliche Logik hinter dem Veganismus. Die Passanten ziehen bewusst oder unbewusst Parallelen zu ihrem Konsum, ohne dafür sich wie an den Pranger gestellt zu fühlen. Deine Geschichte kann beispielsweise so klingen:
+
+*“Ich habe solche Aufnahmen auch mal auf YouTube gesehen. Ich war ehrlich gesagt ziemlich schockiert, damals war ich nicht vegan. Ich dachte, wie kann es sein, dass Tiere für mich so behandelt werden? Ich habe eigentlich schon immer Tiere gemocht. Wir hatten immer Hunde und Katzen als Haustiere in der Familie. Das fühlte sich für mich nicht mehr richtig an und ich konnte nicht mehr Fleisch essen. Dann fing ich an mich zu informieren und fand heraus, dass die Milch- und Eierproduktion nicht besser sind als Fleisch. Deshalb wurde ich dann vegan.”*
+
+An diesem Punkt reagieren die Passanten typischerweise mit “Argumenten”, mit Fragen oder vielleicht mit ihrer eigenen Geschichte. Du führst das Gespräch entsprechend weiter.
+
+#### Argumenten entgegnen
+Wenn du das hier liest, dann weisst du, dass es keine logischen Argumente gibt, die den Veganismus als ethischen Standpunkt schwächen könnten. Wichtig ist es im Outreach, diese Tatsache im Hinterkopf zu behalten und sich deshalb weder aus der Ruhe bringen zu lassen, noch in eine “Debatte” einzugehen. Das soll nicht arrogant wirken, viel mehr nimmst du die Passanten an der Hand und führst sie etwas sanfter zu diesem wichtigen Thema.
+
+Wenn die Passanten beispielsweise sagen: “Die Löwen essen aber auch andere Tiere!”, dann bleib für einen Moment ruhig. Atme durch. Du kannst dann ruhig antworten:
+
+*“Wissen Sie, früher habe ich mir solche Gedanken auch gemacht und ich höre diese Aussage ziemlich oft. Ich denke vielmehr, dass ich als Person immer entscheiden kann, ob ich heute bei meiner Mahlzeit ein Tier töte oder nicht. Ein Löwe kann das nicht, glaube ich. Ich fühle mich nicht wohl dabei, Tiere unnötig zu töten, es muss ja nicht sein. Sich pflanzlich zu ernähren ist zudem auch gesund.”*
+
+Im Grunde genommen hat deine Antwort in diesem Stil Folgendes erreicht: die Person fühlt sich nicht als “dumm” betitelt (*“früher habe ich mir solche Gedanken auch gemacht”*), du präsentierst den eigentlich logischen Gedanken mit Bezug auf deine eigene Person (*“...ich als Person immer entscheiden kann, ob ich heute bei meiner Mahlzeit ein Tier töte oder nicht.”*) und du hast die Person mit anderen Fakten vertraut gemacht (*“Sich pflanzlich zu ernähren ist zudem auch gesund.”*). Wichtig ist auch, dass du Veganismus als ethische Sicht in die Diskussion einbeziehst (*“Ich fühle mich nicht wohl dabei, Tiere unnötig zu töten, es muss ja nicht sein.”*).
