@@ -1,5 +1,5 @@
 # Cube Guide
-Aktivismus für die Rechte der Tiere in der Schweiz
+Aktivismus für die Rechte der Tiere in der Schweiz.
 
 ![Cube Guide](./assets/images/cube_guide_intro.JPG "Cube Guide")
 ![Standing in the Cube](./assets/images/cube_standing.JPG "Standing in the cube")
@@ -11,6 +11,7 @@ Aktivismus für die Rechte der Tiere in der Schweiz
 - Unsere Gespräche haben immer die vegane Lebenseinstellung zum Ziel
 - Wir tolerieren von unseren teilnehmenden Aktivist\*innen kein diskriminierendes, belästigendes oder anderweitig respektloses Verhalten
 
+
 - We engage ourselves for animal rights
 - Our activism is peaceful and legal
 - Our conversations always lead to a vegan lifestyle
@@ -21,6 +22,7 @@ Aktivismus für die Rechte der Tiere in der Schweiz
 - Bildschirme zeigen Aufnahmen aus der Schweizer Tierindustrie und aus dem Dokumentarfilm Dominion
 - Interessierte Passant\*innen halten an und werden von “Outreachers” angesprochen
 - Personen im Cube und im Outreach tauschen regelmässig die Plätze
+
 
 - People in a square form the "cube"
 - Screens show footage from the Swiss animal industry and from the documentary film Dominion
@@ -34,6 +36,7 @@ Aktivismus für die Rechte der Tiere in der Schweiz
 - Notebook/Tablet laden und mitbringen
 - Trage schwarze/möglichst dunkle Kleidung
 - Nimm wenig Gepäck mit
+
 
 - Read our [OUTREACH GUIDE](./outreach.html)
 - Download the video: [VIDEO DOWNLOAD](https://drive.google.com/uc?id=1d5qn27noY-JxSZWIbTCMe429KWJ7F6_C&export=download)
@@ -50,7 +53,8 @@ Aktivismus für die Rechte der Tiere in der Schweiz
   - Noch nicht bereit für Gespräche? Lies unseren [OUTREACH GUIDE](./outreach.html)
 - Masken, Schilder und Visitenkarten werden zur Verfügung gestellt
 - Teilnahme an der gesamten Aktion gewünscht - ist aber keine Pflicht
-  - Nach dem Cube gehen wir gemeinsam essen/trinken, nicht verpassen! ;)
+  - Nach dem Cube gehen wir gemeinsam essen/trinken, nicht verpassen! 😉
+
 
 - Partake in the briefing
   - The cube is explained at the beginning
@@ -59,13 +63,14 @@ Aktivismus für die Rechte der Tiere in der Schweiz
   - Not ready for conversations yet? Read our [OUTREACH GUIDE](./outreach.html) 
 - Masks, signs and closing cards are provided
 - Participating in the complete activity is desired - but not required
-  - After the cube we’ll grab some food/drinks, don’t miss it! ;)
+  - After the cube we’ll grab some food/drinks, don’t miss it! 😉
 
 # Auf dem Laufenden bleiben / Stay in touch
 - Signal/WhatsApp Gruppe beitreten für Terminbenachrichtigungen
   - Frag das Organisationsteam am Cube nach einer Einladung
 - Feedback? [Schreib uns](https://forms.gle/QW3ZR9RHvbV6vThf9)
 - Alle weitere Ressourcen und Termine findest du [hier](/#join)
+
 
 - Join our Signal/WhatsApp group for cube notifications
   - Ask the organisation team at the cube for an invitation
