@@ -19,7 +19,15 @@ Eine Hilfestellung zur Gesprächsführung für Menschen im Aktivismus.
 - [Empfohlene Outreach Ressourcen](#empfohlene-outreach-ressourcen)
   * [Häufige "Argumente" von Omnivoren](#h-ufige--argumente--von-omnivoren)
   * ["Outreach like a pro"](#-outreach-like-a-pro-)
-
+  * [Center for Effective Vegan Advocacy](#center-for-effective-vegan-advocacy)
+- [Weitere Tipps zur Gesprächsführung](#weitere-tipps-zur-gespr-chsf-hrung)
+  * [Effizienz](#effizienz)
+  * [Körpersprache / Psychologie](#k-rpersprache---psychologie)
+  * [Fragetechniken](#fragetechniken)
+  * [Offene Fragen zur Gesprächsführung](#offene-fragen-zur-gespr-chsf-hrung)
+  * [Fragen zum Festigen der Konversation](#fragen-zum-festigen-der-konversation)
+  * [Die Defensive durchbrechen](#die-defensive-durchbrechen)
+- [Nachwort](#nachwort)
 
 # Vorwort
 Liebe aktive Menschen,
