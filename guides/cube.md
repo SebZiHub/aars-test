@@ -28,46 +28,46 @@ Aktivismus für die Rechte der Tiere in der Schweiz
 - People in the cube and in outreach regularly swap places
 
 # Auf den Cube vorbereiten / Preparing for the cube
-- Lies unseren [OUTREACH GUIDE](./guides/outreach.html)
+- Lies unseren [OUTREACH GUIDE](./outreach.html)
 - Lade das Video herunter: [VIDEO HERUNTERLADEN](https://drive.google.com/uc?id=1d5qn27noY-JxSZWIbTCMe429KWJ7F6_C&export=download)
- - Teste das Video in der Endlosschleife (bsp. mit [VLC](https://www.videolan.org/vlc/index.de.html))
+  - Teste das Video in der Endlosschleife (bsp. mit [VLC](https://www.videolan.org/vlc/index.de.html))
 - Notebook/Tablet laden und mitbringen
 - Trage schwarze/möglichst dunkle Kleidung
 - Nimm wenig Gepäck mit
 
-- Read our [OUTREACH GUIDE](./guides/outreach.html)
+- Read our [OUTREACH GUIDE](./outreach.html)
 - Download the video: [VIDEO DOWNLOAD](https://drive.google.com/uc?id=1d5qn27noY-JxSZWIbTCMe429KWJ7F6_C&export=download)
- - Test the video in an endless loop (e.g. with [VLC](https://www.videolan.org/vlc/index.de.html))
+  - Test the video in an endless loop (e.g. with [VLC](https://www.videolan.org/vlc/index.de.html))
 - Charge your notebook/tablet and bring it with you
 - Wear black/mostly dark clothing
 - Take just few items with you
 
 # Am Cube teilnehmen / Participating in the cube
 - Nimm am Briefing teil
- - Zu Beginn erfährst du wie der Cube funktioniert
- - Offene Fragen werden beantwortet
+  - Zu Beginn erfährst du wie der Cube funktioniert
+  - Offene Fragen werden beantwortet
 - Steh im Cube oder führe Gespräche - beides ist wertvoll!
- - Noch nicht bereit für Gespräche? Lies unseren [OUTREACH GUIDE](./guides/outreach.html)
+  - Noch nicht bereit für Gespräche? Lies unseren [OUTREACH GUIDE](./outreach.html)
 - Masken, Schilder und Visitenkarten werden zur Verfügung gestellt
 - Teilnahme an der gesamten Aktion gewünscht - ist aber keine Pflicht
- - Nach dem Cube gehen wir gemeinsam essen/trinken, nicht verpassen! ;)
+  - Nach dem Cube gehen wir gemeinsam essen/trinken, nicht verpassen! ;)
 
 - Partake in the briefing
- - The cube is explained at the beginning
- - Open questions are answered
+  - The cube is explained at the beginning
+  - Open questions are answered
 - Stand in the cube or have conversations - both is crucial!
- - Not ready for conversations yet? Read our [OUTREACH GUIDE](./guides/outreach.html) 
+  - Not ready for conversations yet? Read our [OUTREACH GUIDE](./outreach.html) 
 - Masks, signs and closing cards are provided
 - Participating in the complete activity is desired - but not required
- - After the cube we’ll grab some food/drinks, don’t miss it! ;)
+  - After the cube we’ll grab some food/drinks, don’t miss it! ;)
 
 # Auf dem Laufenden bleiben / Stay in touch
 - Signal/WhatsApp Gruppe beitreten für Terminbenachrichtigungen
- - Frag das Organisationsteam am Cube nach einer Einladung
+  - Frag das Organisationsteam am Cube nach einer Einladung
 - Feedback? [Schreib uns](https://forms.gle/QW3ZR9RHvbV6vThf9)
 - Alle weitere Ressourcen und Termine findest du [hier](/#join)
 
 - Join our Signal/WhatsApp group for cube notifications
- - Ask the organisation team at the cube for an invitation
+  - Ask the organisation team at the cube for an invitation
 - Feedback? [Let us know](https://forms.gle/QW3ZR9RHvbV6vThf9)
 - All further resources and events can be found [here](/#join)
