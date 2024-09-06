@@ -74,3 +74,55 @@ Wenn die Passanten beispielsweise sagen: “Die Löwen essen aber auch andere Ti
 *“Wissen Sie, früher habe ich mir solche Gedanken auch gemacht und ich höre diese Aussage ziemlich oft. Ich denke vielmehr, dass ich als Person immer entscheiden kann, ob ich heute bei meiner Mahlzeit ein Tier töte oder nicht. Ein Löwe kann das nicht, glaube ich. Ich fühle mich nicht wohl dabei, Tiere unnötig zu töten, es muss ja nicht sein. Sich pflanzlich zu ernähren ist zudem auch gesund.”*
 
 Im Grunde genommen hat deine Antwort in diesem Stil Folgendes erreicht: die Person fühlt sich nicht als “dumm” betitelt (*“früher habe ich mir solche Gedanken auch gemacht”*), du präsentierst den eigentlich logischen Gedanken mit Bezug auf deine eigene Person (*“...ich als Person immer entscheiden kann, ob ich heute bei meiner Mahlzeit ein Tier töte oder nicht.”*) und du hast die Person mit anderen Fakten vertraut gemacht (*“Sich pflanzlich zu ernähren ist zudem auch gesund.”*). Wichtig ist auch, dass du Veganismus als ethische Sicht in die Diskussion einbeziehst (*“Ich fühle mich nicht wohl dabei, Tiere unnötig zu töten, es muss ja nicht sein.”*).
+
+Den “Argumenten” der Passanten kann auf diese Art und Weise immer (ja, wirklich immer!) entgegnet werden. Gemäss unseren Erfahrungen im Outreach, schätzen die Passanten diese empathische und respektvolle Art (meist unbewusst) und als Person im Outreach kommt man so praktisch nie in ein Bullshit-Bingo-Gespräch, welches sowieso nie Früchte tragen wird. Es ist wichtig, die "klassischen" Gegenargumente, die für den Veganismus sprechen, zu kennen, deshalb findest du dazu in diesem Dokument weitere Informationen. Jedoch sollten diese möglichst persönlich, nachvollziehbar und in einem respektvollen Ton verpackt werden. In den meisten Fällen reagieren die Passanten auf diese Art mit einem offenen Ohr und unterlassen es, weitere “Argumente” zu bringen. Vielmehr “lernen” die Passanten, dass Veganismus eigentlich Sinn macht und sie lassen die “Waffen” fallen, öffnen sich weiter für das Gespräch.
+
+Wenn du auf “Argumente” hingegen schnell mit anderen Fakten “konterst”, entwickelt sich das Gespräch sehr oft zu einer “Debatte”. Damit suggerierst du den Passanten, dass das, was sie sagen, valide Argumente sind. Die Passanten entwickeln den Eindruck, dass sie sehr erfolgreich gegen einen Veganer*in argumentieren. Für die kognitive Dissonanz ist das gefundenes Fressen. Im Endeffekt werden sie dadurch taub für die vegane Message und das Gespräch wird ziemlich sicher nicht erfolgreich enden.
+
+#### Veganismus als Teil der Ethik
+Typischerweise lohnt es sich, nachdem über die eigene Geschichte gesprochen oder “Argumenten” entgegnet worden ist, den Veganismus als ethischen Standpunkt zu präsentieren. Dies kann so aussehen:
+
+*“Wissen Sie, beim Veganismus geht es darum, so weit wie möglich den Gebrauch von Tieren in Form von Essen, Kleidung oder anderen Formen auszuschliessen. Vegan zu sein ist für mich keine “Diät”. Ich war früher auch nicht vegan, aber als ich solche Bilder sah, fing ich an, mir Fragen zu stellen. Wenn Sie das hier sehen und es sich für Sie nicht richtig anfühlt, würde ich Ihnen empfehlen, sich mal diesen Dokumentarfilm anzusehen.”*
+
+Wenn du den Passanten gekonnt erklärst, weshalb Veganismus für dich als Teil der Ethik so wichtig ist, erkennen die Passanten die Wichtigkeit dieser Sache und respektieren diese meistens auch.
+
+#### Deeskalation
+Während einem Gespräch kann es sein, dass du in den Modus einer “Debatte” geräts, ständig die gleichen “Argumente” kommen und sich die Sache im Kreis dreht oder vielleicht sogar Schimpfwörter fallen. In einer solchen Situation muss das Gespräch deeskaliert werden. Das kann so klingen:
+
+*“Es tut mir Leid, aber ich habe den Eindruck, dass unser Gespräch nicht wirklich angenehm ist, weder für mich noch für Sie. Ich bin hier, um Menschen zu informieren, die an dieser Sache interessiert sind. Wenn Sie nicht interessiert sind, ist das für mich auch OK. Ich wünsche Ihnen noch einen schönen Tag.”*
+
+Oder:
+
+*“Ich kann hier natürlich nur von meinen Erfahrungen berichten. Ich war schon in Hühnerställen und habe das Leid gesehen, für mich ist deshalb die vegane Antwort immer besser. Es ist für mich OK, wenn Sie anderer Meinung sind. Ich kann Ihnen noch eine Empfehlung geben, wenn Sie möchten, oder wir können auch das Gespräch hier gleich beenden.”*
+
+Eine solche Art der Deeskalation erlaubt es den involvierten Personen nochmals Abstand zu nehmen und entweder getrennte Wege zu gehen oder sich auf das Wesentliche zu konzentrieren. Ein Gespräch, welches diesen Punkt erreicht hat, ist sehr oft nicht mehr zu retten und muss deshalb lieber beendet werden. Zumindest aber geschieht das auf eine respektvolle Art und vielleicht sind die Passanten so in Zukunft trotzdem offen für ein Gespräch über das Leid der Tiere.
+
+Es ist wichtig, ein Gespräch so zu führen, dass eine Deeskalation erst gar nicht notwendig wird. Dazu musst du als Person im Outreach gekonnt den “Argumenten” entgegnen, wie im anderen Kapitel beschrieben. Unter dem Strich, müssen wir als aktive Menschen immer die Verantwortung für das Gespräch übernehmen und dieses gekonnt führen. Klar, manchmal gibt es Passanten, die keinen Respekt zeigen oder jeglicher Outreach irgendwie “nie” ankommt. Vielleicht ist es weder der richtige Ort noch der richtige Zeitpunkt für diese Person, den Veganismus richtig zu verstehen. Das ist auch in Ordnung. Es wird weitere Gespräche geben. Mach einfach weiter.
+
+#### Geschichte der Passanten
+Nach einigen Erklärungen oder “Argumenten” kann es sein, dass die Passanten von ihrer Geschichte reden. Vielleicht sagen sie etwas wie: “Ich habe mal versucht vegan zu sein, aber ich hatte keine Kraft im Gym” oder “ich bin seit ein paar Monaten vegetarisch, aber auf Käse kann ich nicht verzichten, das ist zu schwer!”.
+
+Im Grunde genommen sind solche Aussagen der Passanten eigentlich “Argumente”, die etwas anders verpackt sind. Irgendwo scheitert es noch, sonst wären sie ja schon vegan. Das ist jedoch ein gutes Zeichen.
+
+Du kannst auf die Geschichte der Passanten eingehen. Stelle Fragen, sei interessiert. Vielleicht kannst du herausfinden, was ihnen Schwierigkeiten bereitet und wo die Hemmschwelle ist. Darauf kannst du mit Anekdoten aus deinen Erfahrungen eingehen. So fühlen sich die Passanten gehört und verstanden.
+
+Nach der Geschichte der Passanten braucht es oft weitere Erklärungen und Inputs aus deiner eigenen Geschichte, wie in den Kapiteln oberhalb beschrieben.
+
+### Abschluss
+Die Passanten sind interessiert und das Gespräch ist angenehm verlaufen. Du glaubst, dass die Person interessiert ist, sich weiter zu informieren und es ist Hoffnung da, dass diese Person vegan wird. Du führst dann das Gespräch zu einem Abschluss. Das kann so sein:
+
+*“Ich würde Ihnen gerne eins unserer Kärtchen geben, falls Sie interessiert sind. Für mich persönlich ist dieser Dokumentarfilm von besonderer Bedeutung. Der Film zeigt alles, was mit den Tieren passiert, für verschiedene Produkte wie Fleisch, Milch, Eier, Pelz etc. Das können Sie sich gratis ansehen. Uns kostet es nichts, aber für die Tiere ist das ihr Leben.”*
+
+Der Abschluss eines Gesprächs soll den Passanten einen nächsten kleinen Schritt mit auf den Weg geben. Meistens bedeutet das, dass sie sich einen unserer empfohlenen Dokumentarfilme ansehen. Du kannst aber auch da deinen persönlichen Stil mit einfliessen lassen und den Film oder die Webseite empfehlen, welches zum Gespräch am meisten passt oder für dich besonders wichtig ist. Danach musst du der Sache ihren Lauf lassen. Bester Fall: Sie werden vegan. Schlimmster Fall: Sie hatten ein klärendes Gespräch über den Veganismus.
+
+## Empfohlene Outreach Ressourcen
+### Häufige "Argumente" von Omnivoren
+![Your Vegan Fallacy](./assets/images/your_fallacy.png "Your Vegan Fallacy")
+
+Auf [https://yourveganfallacyis.com/de](https://yourveganfallacyis.com/de) findest du häufige “Argumente” der Omnivoren und passende logische Antworten dazu. Es lohnt sich, diese Irrtümer der Passanten zu kennen, um diese, wie in diesem Guide beschrieben, gekonnt zu entschärfen.
+
+Eine ähnliche Webseite ist: [https://www.veganspeak.org/](https://www.veganspeak.org/)
+
+### "Outreach like a pro"
+![Outreach like a pro](./assets/images/like_a_pro.png "Outreach like a pro")
+Ein Workshop von Alex Bez mit weiteren Tipps für guten Outreach. Zu finden auf: [https://youtu.be/MxGjxGL2SVo](https://youtu.be/MxGjxGL2SVo)
