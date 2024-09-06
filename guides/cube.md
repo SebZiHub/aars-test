@@ -15,6 +15,8 @@ Aktivismus für die Rechte der Tiere in der Schweiz.
 - Our conversations always lead to a vegan lifestyle
 - We do not tolerate any discriminatory, harassing or otherwise disrespectful behaviour from our participating activists
 
+
+
 ![Doing Outreach](./assets/images/cube_conversations.png "Doing outreach")
 
 # Der Cube
@@ -28,6 +30,8 @@ Aktivismus für die Rechte der Tiere in der Schweiz.
 - Screens show footage from the Swiss animal industry and from the documentary film Dominion
 - Interested passers-by stop and are approached by "outreachers"
 - People in the cube and in outreach regularly swap places
+
+
 
 ![Standing in the Cube](./assets/images/cube_standing.png "Standing in the cube")
 
