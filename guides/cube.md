@@ -1,9 +1,9 @@
 # Cube Guide
 Aktivismus für die Rechte der Tiere in der Schweiz.
 
-![Cube Guide](./assets/images/cube_guide_intro.JPG "Cube Guide")
-![Standing in the Cube](./assets/images/cube_standing.JPG "Standing in the cube")
-![Doing Outreach](./assets/images/cube_conversations.JPG "Doing outreach")
+![Cube Guide](./assets/images/cube_guide_intro.png "Cube Guide")
+![Standing in the Cube](./assets/images/cube_standing.png "Standing in the cube")
+![Doing Outreach](./assets/images/cube_conversations.png "Doing outreach")
 
 # Unsere Werte
 - Wir setzen uns für die Rechte der Tiere ein
