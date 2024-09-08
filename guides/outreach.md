@@ -17,8 +17,8 @@ Eine Hilfestellung zur Gesprächsführung für Menschen im Aktivismus.
       + [Geschichte der Passanten](#geschichte-der-passanten)
    * [Abschluss](#abschluss)
 - [Empfohlene Outreach Ressourcen](#empfohlene-outreach-ressourcen)
-   * [Häufige "Argumente" von Omnivoren](#häufige-argumente-von-omnivoren)
-   * ["Outreach like a pro"](#outreach-like-a-pro)
+   * [Häufige Argumente von Omnivoren](#häufige-argumente-von-omnivoren)
+   * [Outreach like a pro](#outreach-like-a-pro)
    * [Center for Effective Vegan Advocacy](#center-for-effective-vegan-advocacy)
 - [Weitere Tipps zur Gesprächsführung ](#weitere-tipps-zur-gesprächsführung)
    * [Effizienz](#effizienz)
@@ -94,7 +94,7 @@ Im Grunde genommen hat deine Antwort in diesem Stil Folgendes erreicht: die Pers
 
 Den “Argumenten” der Passanten kann auf diese Art und Weise immer (ja, wirklich immer!) entgegnet werden. Gemäss unseren Erfahrungen im Outreach, schätzen die Passanten diese empathische und respektvolle Art (meist unbewusst) und als Person im Outreach kommt man so praktisch nie in ein Bullshit-Bingo-Gespräch, welches sowieso nie Früchte tragen wird. Es ist wichtig, die "klassischen" Gegenargumente, die für den Veganismus sprechen, zu kennen, deshalb findest du dazu in diesem Dokument weitere Informationen. Jedoch sollten diese möglichst persönlich, nachvollziehbar und in einem respektvollen Ton verpackt werden. In den meisten Fällen reagieren die Passanten auf diese Art mit einem offenen Ohr und unterlassen es, weitere “Argumente” zu bringen. Vielmehr “lernen” die Passanten, dass Veganismus eigentlich Sinn macht und sie lassen die “Waffen” fallen, öffnen sich weiter für das Gespräch.
 
-Wenn du auf “Argumente” hingegen schnell mit anderen Fakten “konterst”, entwickelt sich das Gespräch sehr oft zu einer “Debatte”. Damit suggerierst du den Passanten, dass das, was sie sagen, valide Argumente sind. Die Passanten entwickeln den Eindruck, dass sie sehr erfolgreich gegen einen Veganer*in argumentieren. Für die kognitive Dissonanz ist das gefundenes Fressen. Im Endeffekt werden sie dadurch taub für die vegane Message und das Gespräch wird ziemlich sicher nicht erfolgreich enden.
+Wenn du auf “Argumente” hingegen schnell mit anderen Fakten “konterst”, entwickelt sich das Gespräch sehr oft zu einer “Debatte”. Damit suggerierst du den Passanten, dass das, was sie sagen, valide Argumente sind. Die Passanten entwickeln den Eindruck, dass sie sehr erfolgreich gegen einen Veganer\*in argumentieren. Für die kognitive Dissonanz ist das gefundenes Fressen. Im Endeffekt werden sie dadurch taub für die vegane Message und das Gespräch wird ziemlich sicher nicht erfolgreich enden.
 
 ### Veganismus als Teil der Ethik
 Typischerweise lohnt es sich, nachdem über die eigene Geschichte gesprochen oder “Argumenten” entgegnet worden ist, den Veganismus als ethischen Standpunkt zu präsentieren. Dies kann so aussehen:
@@ -133,14 +133,14 @@ Die Passanten sind interessiert und das Gespräch ist angenehm verlaufen. Du gla
 Der Abschluss eines Gesprächs soll den Passanten einen nächsten kleinen Schritt mit auf den Weg geben. Meistens bedeutet das, dass sie sich einen unserer empfohlenen Dokumentarfilme ansehen. Du kannst aber auch da deinen persönlichen Stil mit einfliessen lassen und den Film oder die Webseite empfehlen, welches zum Gespräch am meisten passt oder für dich besonders wichtig ist. Danach musst du der Sache ihren Lauf lassen. Bester Fall: Sie werden vegan. Schlimmster Fall: Sie hatten ein klärendes Gespräch über den Veganismus.
 
 # Empfohlene Outreach Ressourcen
-## Häufige "Argumente" von Omnivoren
+## Häufige Argumente von Omnivoren
 ![Your Vegan Fallacy](./assets/images/your_fallacy.png "Your Vegan Fallacy")
 
 Auf [https://yourveganfallacyis.com/de](https://yourveganfallacyis.com/de) findest du häufige “Argumente” der Omnivoren und passende logische Antworten dazu. Es lohnt sich, diese Irrtümer der Passanten zu kennen, um diese, wie in diesem Guide beschrieben, gekonnt zu entschärfen.
 
 Eine ähnliche Webseite ist: [https://www.veganspeak.org/](https://www.veganspeak.org/)
 
-## "Outreach like a pro"
+## Outreach like a pro
 ![Outreach like a pro](./assets/images/like_a_pro.png "Outreach like a pro")
 
 Ein Workshop von Alex Bez mit weiteren Tipps für guten Outreach. Zu finden auf: [https://youtu.be/MxGjxGL2SVo](https://youtu.be/MxGjxGL2SVo)

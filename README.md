@@ -30,4 +30,4 @@ The following files are relevant:
 - `guides/*.md`: the actual content of the guides
 - `guides/assets/*`: other assets, such as images, that are only used in the guides
 
-To easily create a table of content over a markdown file, this [generator](https://ecotrust-canada.github.io/markdown-toc/) can be used.
+To easily create a table of content over a markdown file, this [generator](https://derlin.github.io/bitdowntoc/) can be used.
