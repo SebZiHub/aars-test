@@ -323,6 +323,14 @@ deferred-script {
   padding: 0 4rem 0 4rem;
 }
 
+#translate-link-container {
+  color: #ffffff;
+  text-align: right;
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+}
+
 #main {
   --alignment: var(--site-language-alignment);
   --flex-alignment: var(--site-language-flex-alignment);
