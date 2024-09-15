@@ -24,7 +24,8 @@ Aktivismus für die Rechte der Tiere in der Schweiz.
 - Lade das Video herunter: [VIDEO HERUNTERLADEN](https://drive.google.com/uc?id=1d5qn27noY-JxSZWIbTCMe429KWJ7F6_C&export=download)
   - Teste das Video in der Endlosschleife (bsp. mit [VLC](https://www.videolan.org/vlc/index.de.html))
 - Notebook/Tablet laden und mitbringen
-- Trage schwarze/möglichst dunkle Kleidung
+- Trage schwarze/möglichst dunkle und neutrale Kleidung
+  - Provozierende Slogans lassen wir lieber zu Hause 😉
 - Nimm wenig Gepäck mit
 
 # Am Cube teilnehmen
