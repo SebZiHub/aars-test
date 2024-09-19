@@ -20,6 +20,8 @@ The calendar is implemented with Vue.js. Since the calendar itself is split into
 ### Updating cube events
 Check the folder `./calendar/data` and update the file `event.json` accordingly.
 
+An event can have the status `in-planning`, `cancelled` or `confirmed`.
+
 ## The guides
 For more text intensive sites, a [Github Pages](https://pages.github.com/) template is applied on markdown files.
 
