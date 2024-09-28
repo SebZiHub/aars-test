@@ -1,0 +1,9 @@
+:root {
+    --background: #000;
+    --background-lighter-1: #1f1f1f;
+    --text-color: #fff;
+    --heading-color: #e5e5e5;
+    --edge-radius: 4px;
+    --warn: #D68000;
+    --error: #812323;
+}
