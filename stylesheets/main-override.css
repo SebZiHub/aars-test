@@ -1,0 +1,7 @@
+.buttons.style1 li a {
+    border-radius: 0.4rem;
+}
+
+.buttons.style1 li a > .label {
+    font-size: 1.2em;
+}
