@@ -51,11 +51,11 @@ export class Event {
     }
 
     isFutureEvent(): boolean {
-        return new Date() <= this.start;
+        return this.getNow() <= this.start;
     }
 
     isNextEventComingUp(): boolean {
-        const now = new Date();
+        const now = this.getNow();
         const noPreviousEventOrInThePast = (this.previousEvent === null || this.previousEvent.start < now);
         const isEventInFuture = this.start >= now;
 
@@ -78,5 +78,9 @@ export class Event {
 
     isCancelled(): boolean {
         return this.eventStatus === "cancelled";
+    }
+
+    getNow(): Date {
+        return new Date();
     }
 }
