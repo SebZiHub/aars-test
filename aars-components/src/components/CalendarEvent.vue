@@ -8,7 +8,6 @@ library.add(faCalendar);
 library.add(faLocationDot);
 library.add(faClock);
 
-
 export default {
     components: { FontAwesomeIcon },
     methods: {
@@ -37,9 +36,9 @@ export default {
 </script>
 
 <template>
-  <div class="event-container" v-if="event.isFutureEvent()">
+  <div class="event-container" v-if="event?.isFutureEvent()">
     <div class="date-container">
-      <span :class="getClassForDayBadge(this.event)"><span><strong>{{ event.getDay() }}</strong></span></span>
+      <span :class="getClassForDayBadge(event)"><span><strong>{{ event.getDay() }}</strong></span></span>
       <span class="month-abbr">{{ event.getMonthAbbreviation() }}</span>
     </div>
     <div class="main-container">
@@ -47,22 +46,18 @@ export default {
         <span :style="[event.isCancelled() ? 'text-decoration: line-through' : '']"><strong>Cube in {{ event.location.city.name }}</strong></span>
       </div>
       <div class="status-container" v-if="event.isInPlanningOrCancelled()">
-        <div :class="getClassForStatusBadge(this.event)"><span><strong>{{ event.getEventStatusDisplayText() }}</strong></span></div>
+        <div :class="getClassForStatusBadge(event)"><span><strong>{{ event.getEventStatusDisplayText() }}</strong></span></div>
       </div>
       <div class="info-container">
-        <div><FontAwesomeIcon :icon="'fa-calendar'"></FontAwesomeIcon><span>{{ event.getDateInSwissFormat() }}</span></div>
-        <div><FontAwesomeIcon :icon="'fa-clock'"></FontAwesomeIcon><span>{{ event.getStartTime() }} - {{ event.getEndTime() }}</span></div>
-        <div><FontAwesomeIcon :icon="'fa-location-dot'"></FontAwesomeIcon><span><a target='_blank' :href="event.location.googleMapsLink">{{ event.location.name }}</a></span></div>
+        <div><FontAwesomeIcon :icon="'fa-calendar'"></FontAwesomeIcon><span class="info-label">{{ event.getDateInSwissFormat() }}</span></div>
+        <div><FontAwesomeIcon :icon="'fa-clock'"></FontAwesomeIcon><span class="info-label">{{ event.getStartTime() }} - {{ event.getEndTime() }}</span></div>
+        <div><FontAwesomeIcon :icon="'fa-location-dot'"></FontAwesomeIcon><span class="info-label"><a target='_blank' :href="event.location.googleMapsLink">{{ event.location.name }}</a></span></div>
       </div>
     </div>
   </div>
 </template>
 
 <style>
-@import "../stylesheets/button.css";
-@import "../stylesheets/badge.css";
-@import "../stylesheets/variables.css";
-
 .event-container {
     display: flex;
     margin-bottom: 36px;
@@ -114,6 +109,10 @@ export default {
 .event-container > .main-container > .info-container > div > i.fa-location-dot {
     margin-right: 14px;
     padding-left: 2px;
+}
+
+.event-container > .main-container > .info-container .info-label {
+    padding-left: 8px;
 }
 
 .list-inline {

@@ -64,7 +64,7 @@ export class Event {
 
     getEventStatusDisplayText(): string {
         if (this.eventStatus === "in-planning") {
-          return "In Planung";
+          return "Noch nicht bestätigt";
         }   
         if (this.eventStatus === "cancelled") {
           return "Abgesagt";
