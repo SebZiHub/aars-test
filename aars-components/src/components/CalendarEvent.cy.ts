@@ -17,6 +17,7 @@ describe('<CalendarEvent />', () => {
     const event = new Event(tomorrow, tomorrow2HoursLater, location, 'confirmed');
 
     cy.mount(CalendarEvent, { props: { event }} );
+    cy.screenshot();
   });
 
   it('renders a cancelled event', () => {
@@ -31,6 +32,7 @@ describe('<CalendarEvent />', () => {
     const event = new Event(tomorrow, tomorrow2HoursLater, location, 'cancelled');
 
     cy.mount(CalendarEvent, { props: { event }} );
+    cy.screenshot();
   });
 
   it('renders an event in planning', () => {
@@ -45,5 +47,6 @@ describe('<CalendarEvent />', () => {
     const event = new Event(tomorrow, tomorrow2HoursLater, location, 'in-planning');
 
     cy.mount(CalendarEvent, { props: { event }} );
+    cy.screenshot();
   });
 });
